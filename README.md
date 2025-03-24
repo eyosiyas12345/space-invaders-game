@@ -236,7 +236,6 @@ function shoot (e){
     bulletsArray.push(bullet);
   }
 }
-
 function detectCollision(a,b){
   return a.x<b.x+b.width&&
          a.x+a.width>b.x&&
@@ -244,3 +243,6 @@ function detectCollision(a,b){
          a.y+a.height>b.y
 }
 ```
+## The Deployed website link
+https://space-invaders-game-eyosiyas-gezahegn.netlify.app/
+<img ![space-invaders-game] src= "(https://github.com/user-attachments/assets/5ceb110f-397b-43ef-9161-43b7793bc801 )">
