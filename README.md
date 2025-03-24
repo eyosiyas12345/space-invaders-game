@@ -1,4 +1,10 @@
 # Space Invaders Game
+
+##Image of the game outlook:
+
+![space-invaders-game](https://github.com/user-attachments/assets/1af48ee6-ba5e-4154-a2fb-26f451cbbf9a)
+
+
 ## Html
 ```html
 <!DOCTYPE html>
