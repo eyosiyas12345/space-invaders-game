@@ -244,5 +244,10 @@ function detectCollision(a,b){
 }
 ```
 ## The Deployed website link
+
 https://space-invaders-game-eyosiyas-gezahegn.netlify.app/
-<img ![space-invaders-game] src= "(https://github.com/user-attachments/assets/5ceb110f-397b-43ef-9161-43b7793bc801 )">
+
+## Instruction to play the game :   
+
+space key => for shoting,  left arrow => for moving left the ship,  right arrow => for moving the ship to right
+
